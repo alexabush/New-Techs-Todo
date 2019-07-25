@@ -16,7 +16,9 @@ alias Example.Language
 
 language_data = [
     %{name: "Indonesian", proverb: "Dimana ada kemauanm di situ ada jalan."},
-    %{name: "Dutch", proverb: "Die goed doet, goed ontmoet."}
+    %{name: "Indonesian2", proverb: "Dimana ada kemauanm di situ ada jalan."},
+    %{name: "Dutch", proverb: "Die goed doet, goed ontmoet."},
+    %{name: "Dutch2", proverb: "Die goed doet, goed ontmoet."}
 ]
 
 Enum.each(language_data, fn(data) ->

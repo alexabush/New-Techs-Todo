@@ -193,7 +193,6 @@ export default class FetchDataPage extends React.Component<
         {content}
         <InputField onSubmit={data => this.onFormSubmit(data)} />
         <br />
-        <br />
         <p>
           <Link to="/">Back to home</Link>
         </p>
